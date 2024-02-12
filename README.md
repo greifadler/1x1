@@ -1,16 +1,53 @@
-# ein_mal_eins
+# 1 ⋅ 1 Educational App
 
-A new Flutter project.
+## About The Project
+
+The "1 ⋅ 1" app is a playful and colorful educational tool designed to help children learn and practice basic arithmetic operations: multiplication (`MAL`), division (`DIVIDIEREN`), and addition (`IN`). With a focus on interactivity and engagement, the app introduces young learners to the world of numbers through fun exercises and challenges.
+
+### Features
+
+- **Interactive Exercises**: Children can practice multiplication, division, and addition with numbers in a fun and engaging way.
+- **Progress Tracking**: The app tracks the learner's progress across different arithmetic operations, providing valuable feedback on their strengths and areas for improvement.
+- **Colorful and Child-Friendly Interface**: Designed with young users in mind, the app features a vibrant and intuitive interface that makes learning enjoyable.
+- **Dynamic Difficulty Levels**: Exercises adapt to the child's learning pace, gradually increasing in complexity as their skills develop.
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+To get a local copy up and running, follow these simple steps.
 
-A few resources to get you started if this is your first Flutter project:
+### Prerequisites
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+- Flutter
+  Before you begin, ensure you have the latest version of Flutter installed on your development machine. For installation instructions, see the [Flutter documentation](https://flutter.dev/docs/get-started/install).
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+### Installation
+
+1. Clone the repository:
+   ```sh
+   git clone https://github.com/greifadler/1x1.
+
+2. Navigate to the project directory:
+   ```sh
+   cd 1x1
+
+3. Install the dependencies:
+   ```sh
+   flutter pub get
+
+4. Run the app:
+   ```sh
+   flutter run
+
+## Usage
+
+The app is straightforward to use. Upon launching, children are greeted with the main menu where they can choose the type of arithmetic operation they wish to practice. The app then presents them with exercises tailored to their selection, allowing for an interactive learning experience.
+
+## Contact
+
+Fabian Greimel - StyriaLabs
+
+LinkedIn: https://www.linkedin.com/in/fabian-greimel-736449295/
+
+Website: https://styrialabs.com/
+
+Project Link: https://github.com/greifadler/1x1
