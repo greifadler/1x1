@@ -4,6 +4,9 @@
 
 The "1 ⋅ 1" app is a playful and colorful educational tool designed to help children learn and practice basic arithmetic operations: multiplication (`MAL`) and division (`DIVIDIEREN`) & (`IN`). With a focus on interactivity and engagement, the app introduces young learners to the world of numbers through fun exercises and challenges.
 
+[![IMAGE ALT TEXT](http://img.youtube.com/vi/fMI9V0vVe1s/0.jpg)](http://www.youtube.com/watch?v=fMI9V0vVe1s "Video Title")
+
+
 ### Features
 
 - **Interactive Exercises**: Children can practice multiplication, division, and addition with numbers in a fun and engaging way.
