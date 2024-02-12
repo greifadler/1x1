@@ -4,7 +4,6 @@
 
 The "1 ⋅ 1" app is a playful and colorful educational tool designed to help children learn and practice basic arithmetic operations: multiplication (`MAL`) and division (`DIVIDIEREN`) & (`IN`). With a focus on interactivity and engagement, the app introduces young learners to the world of numbers through fun exercises and challenges.
 
-[![YouTube](https://img.icons8.com/color/48/000000/youtube-play.png)](YourYouTubeLinkHere) 
 ### 1x1 calculation app for kids | Flutter - Alpha version
 
 [![IMAGE ALT TEXT](http://img.youtube.com/vi/fMI9V0vVe1s/0.jpg)](http://www.youtube.com/watch?v=fMI9V0vVe1s "Video Title")
