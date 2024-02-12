@@ -1,4 +1,4 @@
-# 1 ⋅ 1 Educational App
+# 1 ⋅ 1 - Educational App
 
 ## About The Project
 
